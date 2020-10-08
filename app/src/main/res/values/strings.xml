@@ -1,3 +1,112 @@
 <resources>
-    <string name="app_name">sneakers</string>
+    <string name="app_name">SneakerSizer</string>
+    <string name="sneaker_sizer">Sneaker Sizer</string>
+    <string name="shoe">shoe</string>
+    <string name="synopsis">Shopping online? No more guessing whether it will fit. Order the right sneaker sizes the first time.</string>
+    <string name="buttonmain">Get New Sneaker Size</string>
+    <string name="use_shoes">Use sizing from a current pair</string>
+    <string name="manual_input">Use manual measurements</string>
+    <string name="men_s">Men\'s</string>
+    <string name="women_s">Women\'s</string>
+    <string name="us_sizing">US sizing</string>
+    <string name="uk_sizing">UK sizing</string>
+    <string name="eu_sizing">EU sizing</string>
+    <string name="mysize">My Size</string>
+    <string name="method">Method</string>
+    <string name="gender">Gender</string>
+    <string name="sizing">Sizing</string>
+    <string name="brand">Brand</string>
+    <string name="models">Model</string>
+    <string name="new_shoes">Select New Sneakers</string>
+    <string name="units">Units</string>
+    <string name="units_cm">cm</string>
+    <string name="units_inch">inches</string>
+    <string name="length">Length (cm)</string>
+    <string name="width">Width (cm)</string>
+    <string name="sizeErrorMsg">No suitable size</string>
+    <string name="resultText">Recommended size</string>
+
+
+    <string-array name="brands_array">
+        <item>Adidas</item>
+        <item>Converse</item>
+        <item>New Balance</item>
+        <item>Nike</item>
+        <item>Reebok</item>
+        <item>Skechers</item>
+    </string-array>
+    <string-array name="sizes_uk">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+
+    </string-array>
+    <string-array name="sizes_us">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+
+    </string-array>
+    <string-array name="sizes_eu">
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+    </string-array>
+
+
+    <string-array name="models_adidas">
+        <item>Adidas Swift Run</item>
+        <item>Adidas Stan Smith</item>
+        <item>Adidas Nite Jogger</item>
+
+    </string-array>
+    <string-array name="models_nike">
+        <item>Nike Air Max 90</item>
+        <item>Nike Air Force 1</item>
+        <item>Nike Air Jordan 1</item>
+
+    </string-array>
+    <string-array name="models_reebok">
+        <item>Reebok Classic Leather</item>
+        <item>Reebok Workout Plus</item>
+        <item>Reebok Sole Fury</item>
+
+    </string-array>
+    <string-array name="models_newbalance">
+        <item>New Balance 827</item>
+        <item>New Balance 992</item>
+        <item>New Balance 1500</item>
+
+    </string-array>
+    <string-array name="models_converse">
+        <item>Converse Chuck Taylor All Star</item>
+        <item>Converse Chuck 70</item>
+        <item>Converse One Star</item>
+
+    </string-array>
+    <string-array name="models_skechers">
+        <item>Skechers Arch Fit</item>
+        <item>Skechers GOwalk 5</item>
+        <item>Skechers Summits</item>
+
+    </string-array>
+
 </resources>
