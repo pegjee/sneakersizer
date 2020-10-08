@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SneakerSizer</string>
+    <string name="sneaker_sizer">Calibreur de Baskets</string>
+    <string name="shoe">Basket</string>
+    <string name="synopsis">Achat en ligne? Obtenez la taille de basket correcte la premìere fois</string>
+    <string name="buttonmain">Allons-y!</string>
+    <string name="use_shoes">Utiliser le dimensionnement d\'une paire actuelle</string>
+    <string name="men_s">Hommes</string>
+    <string name="manual_input">Utiliser des mesures manuelles</string>
+    <string name="women_s">Femmes</string>
+    <string name="eu_sizing">Dimensionnement de l\'UE</string>
+    <string name="uk_sizing">Dimensionnement britannique</string>
+    <string name="us_sizing">Dimensionnement américain</string>
+    <string name="mysize">Ma Taille</string>
+    <string name="method">Méthode</string>
+    <string name="gender">Le Genre</string>
+    <string name="sizing">Dimensionnement</string>
+    <string name="brand">Marque</string>
+    <string name="models">Modéle</string>
+    <string name="new_shoes">Choisissez de nouvelles baskets</string>
+    <string name="units">Unités</string>
+    <string name="units_cm">cm</string>
+    <string name="units_inch">pouces</string>
+    <string name="length">Longeur (cm)</string>
+    <string name="width">Largeur (cm)</string>
+    <string name="sizeErrorMsg">Pas de taille appropriée</string>
+</resources>

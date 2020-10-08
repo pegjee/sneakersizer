@@ -1,4 +1,4 @@
-package com.example.sneakers;
+package com.example.sneakersizer;
 
 import org.junit.Test;
 

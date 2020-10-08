@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".results">
+
+    <TextView
+        android:id="@+id/textResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:background="#C9F1CA"
+        android:gravity="center_horizontal"
+        android:text="@string/resultText"
+        android:textSize="16pt"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textShoeDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:gravity="center_horizontal|center_vertical"
+        android:inputType="textMultiLine"
+        android:text="size"
+        android:textSize="20pt"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageShoeResult"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:src="@drawable/shoesplash" />
+
+    <Button
+        android:id="@+id/buttonStartAgain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.5"
+        android:onClick="startAgain"
+        android:text="Start Again" />
+</LinearLayout>
